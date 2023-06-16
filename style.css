@@ -1,0 +1,21 @@
+#title{
+    font-size: 40px;
+    font-weight: 1000;
+}
+body{
+    text-align: center;
+}
+.img{
+    height: 500;
+    width: 600;
+}
+.navcss
+{
+    position: sticky;
+    top: 0;
+    z-index: 999999999;
+}
+#subtitle{
+    font-size: 20;
+    font-weight: 700;
+}
